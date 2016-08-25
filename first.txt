@@ -2,4 +2,4 @@ Git is a version control system.
 lalala
 lala
 la
-Git is free software.
+Git is a free software.
